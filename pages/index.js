@@ -9,7 +9,7 @@ const mx = Metaplex.make(connection);
 
 export default function Home() {
   const [address, setAddress] = useState(
-    'EAqjUWVX2m9fdfGNBzTY5zSiid1Sb9V3x6EL8ssZBTkw',
+    'Geh5Ss5knQGym81toYGXDbH3MFU2JCMK7E4QyeBHor1b',
   );
 
   const [nftList, setNftList] = useState(null);
